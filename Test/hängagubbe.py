@@ -2,6 +2,7 @@
 import random
 ordlista = ["dator", "mobil", "telefon", "python", "programmering", "lektion", "skola", "lärare"]
 ord = random.choice (ordlista)
+gissade_bokstäver = []
 
-
+gissning = input("Gissa en bokstav: ")
 
